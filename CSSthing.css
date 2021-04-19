@@ -1,0 +1,26 @@
+p {
+  color: darkgray;
+  font-size: 16px;
+}
+h4 {
+  color: blue;
+  font-size: 30px;
+}
+h1 {
+	
+  font-size: 40px;
+}
+h3 {
+	
+  font-size: 20px;
+  color:gray;
+}
+
+h5 {
+	
+  font-size: 12px;
+  color: gray;
+}
+body {
+	background-color: #FBEEC1;
+}
